@@ -1,1 +1,22 @@
-git
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.h_highlight{
+    color: orange;
+}
+
+.half_width {
+    width: 40%;
+    float: left;
+    margin-left:4%;
+    padding: 2%;
+}
+
+.half_width img{
+    width: 100%;
+}
